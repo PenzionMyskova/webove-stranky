@@ -10,9 +10,6 @@ window.onload=function(){
  document.body.appendChild(e); 
 }                   
 
-
-
-
   $(document).ready(function() {
     
     setInterval('cycleImages()', 6000);
